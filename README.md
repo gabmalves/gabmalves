@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Martins 
 
 - 🔭 No momento não estou trabalhando em algo
-- 🌱 Estudando: HTML5 e CSS3
+- 🌱 Estudando HTML5 e CSS3
 
 <div align="center">
   <a href="https://github.com/gabmalves">
